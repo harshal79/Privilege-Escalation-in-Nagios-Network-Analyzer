@@ -14,7 +14,7 @@ A **Broken Access Control** vulnerability in **Nagios Network Analyzer 2024R1.0.
 - **Operational Impact:** Could result in downtime, data loss, and reputational damage.  
 
 ## CVSS Score  
-- **CVSS v3.0:** `AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:L`  
+- **CVSS v3.0:** `CVSS:3.0/AV:A/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:L`  
 - **Severity:** Medium  
 
 ## Root Cause  
