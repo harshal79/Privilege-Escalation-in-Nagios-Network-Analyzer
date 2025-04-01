@@ -1,4 +1,4 @@
-# CVE Request: Privilege Escalation in Nagios Network Analyzer  
+# Privilege Escalation in Nagios Network Analyzer  
 
 ## Overview  
 A **Broken Access Control** vulnerability in **Nagios Network Analyzer 2024R1.0.3** allows low-privilege users to perform administrative actions, such as stopping system services and deleting critical resources. This flaw compromises **system integrity** and **availability**, leading to potential operational disruptions.  
@@ -29,7 +29,7 @@ The application lacks proper authorization enforcement, allowing users with **Re
 - **February 4, 2025:** Public disclosure permitted.  
 
 ## References  
-- [MITRE CVE Entry - Pending]  
+- [MITRE CVE Entry]  (https://www.cve.org/CVERecord?id=CVE-2025-28131) 
 - [Nagios Changelog](https://www.nagios.com/changelog/#network-analyzer)  
 
 ## Credits  
