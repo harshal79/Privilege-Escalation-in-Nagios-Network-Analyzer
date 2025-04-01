@@ -36,4 +36,4 @@ The application lacks proper authorization enforcement, allowing users with **Re
 - **Discovered by:** Harshal Tembhurne  
 
 ## Note  
-This repository is created solely for submitting a **CVE request**. It provides the necessary details for vulnerability tracking while adhering to responsible disclosure practices.  
+This repository is created solely for providing the necessary details for vulnerability tracking while adhering to responsible disclosure practices.  
